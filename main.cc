@@ -1,5 +1,5 @@
 #include <iostream>
-
+//Hola//
 struct Persona
 {
     std::string nombre;
